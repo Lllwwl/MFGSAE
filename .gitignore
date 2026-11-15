@@ -1,0 +1,27 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
+Thumbs.db
+
+# Local experiment outputs
+results/
+outputs/
+figures/
+*.png
+*.jpg
+*.jpeg
+*.pdf
+*.json
+
+# Local configs / IDE
+.vscode/
+.idea/
+
+# Datasets should stay local
+*.osm
+*.csv
+*.geojson
+*.gpkg
+
